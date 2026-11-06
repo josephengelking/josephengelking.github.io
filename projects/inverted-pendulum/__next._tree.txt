@@ -1,6 +1,6 @@
-:HL["/_next/static/chunks/2w-bh0bjk-fh4.css","style"]
+:HL["/_next/static/chunks/3cag92ryjzsg9.css","style"]
 :HL["/Joseph_Engelking_Headshot - Copy.jpg","image"]
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":{"n":"slug","t":"d","k":"inverted-pendulum","s":[]},"h":96,"c":"$Q3"}]]
 1:[["children",{"s":"projects","h":96,"c":"$Q2"}]]
-0:{"b":"IpgkEUWaBQCj6EMbIRipm","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"tXdacLTg7X_uhZFVpD8wF","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
