@@ -1,6 +1,6 @@
-:HL["/_next/static/chunks/38-38ve8p1h0d.css","style"]
+:HL["/_next/static/chunks/3a9y9_x8x5c7w.css","style"]
 :HL["/Joseph_Engelking_Headshot - Copy.jpg","image"]
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":{"n":"slug","t":"d","k":"electric-van-evan-dashboard","s":[]},"h":96,"c":"$Q3"}]]
 1:[["children",{"s":"projects","h":96,"c":"$Q2"}]]
-0:{"b":"pOH5BSThLBmciA1AhesHC","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"xVRgOJAwsPaS0tVZLE8j1","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
