@@ -3,4 +3,4 @@
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":{"n":"slug","t":"d","k":"automated-chessboard-chessgpt","s":[]},"h":96,"c":"$Q3"}]]
 1:[["children",{"s":"projects","h":96,"c":"$Q2"}]]
-0:{"b":"yzqRqOb_gxP1GiRSKVCtp","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"K6_tO4yx1m8piss83ORAg","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
