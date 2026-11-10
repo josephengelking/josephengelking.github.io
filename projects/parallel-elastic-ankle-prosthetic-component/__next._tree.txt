@@ -1,6 +1,6 @@
-:HL["/_next/static/chunks/2625b2zdha68p.css","style"]
+:HL["/_next/static/chunks/38-38ve8p1h0d.css","style"]
 :HL["/Joseph_Engelking_Headshot - Copy.jpg","image"]
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":{"n":"slug","t":"d","k":"parallel-elastic-ankle-prosthetic-component","s":[]},"h":96,"c":"$Q3"}]]
 1:[["children",{"s":"projects","h":96,"c":"$Q2"}]]
-0:{"b":"S61ZwwcCbGKc9FhSb6qyL","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"pOH5BSThLBmciA1AhesHC","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
