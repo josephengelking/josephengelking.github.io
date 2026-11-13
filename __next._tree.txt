@@ -1,4 +1,4 @@
-:HL["/_next/static/chunks/3px5lucqet020.css","style"]
+:HL["/_next/static/chunks/0vvdy9qx_og88.css","style"]
 :HL["/Joseph_Engelking_Headshot - Copy.jpg","image"]
 1:[["children",{"s":"__PAGE__","h":160}]]
-0:{"b":"zGz7u7WZKLeHF6CVL4ogj","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"2FDh8-GTMVckyYHbI4V5O","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
