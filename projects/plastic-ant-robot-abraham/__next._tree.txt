@@ -1,6 +1,6 @@
-:HL["/_next/static/chunks/01cn-b03yz_fi.css","style"]
+:HL["/_next/static/chunks/3px5lucqet020.css","style"]
 :HL["/Joseph_Engelking_Headshot - Copy.jpg","image"]
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":{"n":"slug","t":"d","k":"plastic-ant-robot-abraham","s":[]},"h":96,"c":"$Q3"}]]
 1:[["children",{"s":"projects","h":96,"c":"$Q2"}]]
-0:{"b":"4R8BqSvxgyYSUZCu9uQqC","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"9XSQaFsFthgFdTmoj16Ww","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
