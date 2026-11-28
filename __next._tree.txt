@@ -1,4 +1,4 @@
-:HL["/_next/static/chunks/02ipla640cdc7.css","style"]
+:HL["/_next/static/chunks/0_vr8rklkvac8.css","style"]
 :HL["/headshot-display.webp","image"]
 1:[["children",{"s":"__PAGE__","h":160}]]
-0:{"b":"Dfi0Yx9oPQ_K5CmrjuCr0","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"KME4v4Y1NPCKfS_iUSjPu","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
