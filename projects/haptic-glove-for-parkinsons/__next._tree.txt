@@ -1,6 +1,6 @@
-:HL["/_next/static/chunks/1muzsq66_rqvb.css","style"]
+:HL["/_next/static/chunks/3epyvwyuitmtw.css","style"]
 :HL["/headshot-display.webp","image"]
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":{"n":"slug","t":"d","k":"haptic-glove-for-parkinsons","s":[]},"h":96,"c":"$Q3"}]]
 1:[["children",{"s":"projects","h":96,"c":"$Q2"}]]
-0:{"b":"J74tewQbNOOzU0zpDmX6K","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"75Inmlj5yWtzaVrA9uP9N","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
